@@ -1,12 +1,25 @@
 # kehoachngay
 **24/02/2021**
-- Hôm nay làm được gì ?
+1. Hôm nay làm được gì ?
 + Vẽ mindmap module 2.
 + Viết CV.
 + Tạo backlog cá nhân
-- Khó khăn là gì ?
+2. Khó khăn là gì ?
 + Tìm kiếm template.
 + Tạo backlog cá nhân .
-- Ngày mai làm gì ?
-+ Tạo Database dự án cá nhân.
+3. Ngày mai làm gì ?
 + ghép template 
+
+
+**25/02/2021**
+1. Hôm nay làm được gì ?
+- Tham gia Seminar 3 Kỹ năng làm việc tại doanh nghiệp
+- Tham gia buổi chia sẻ Kỹ năng phỏng vấn cơ bản
+- Vẽ mindmap Module2
+- Ghép template cá nhân
+2. Khó khăn là gì ?
+- Ghép template cá nhân
+3. Ngày mai làm gì ?
+- Tham gia Seminar 4 Developer Testing
+- Tham gia buổi chia sẻ Kỹ năng phỏng vấn
+- Tạo Database dự án cá nhân.
