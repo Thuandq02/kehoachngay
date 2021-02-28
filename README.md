@@ -23,3 +23,15 @@
 - Tham gia Seminar 4 Developer Testing
 - Tham gia buổi chia sẻ Kỹ năng phỏng vấn
 - Tạo Database dự án cá nhân.
+
+**26/02/2021**
+1. Hôm nay làm được gì ?
+- Tham gia Seminar 4 Developer Testing
+- Tham gia buổi chia sẻ Kỹ năng phỏng vấn
+- Tạo Database dự án cá nhân.
+2. Khó khăn là gì ?
+- CodeSignal khó.
+3. Ngày mai làm gì ?
+- Dự án cá nhân.
+- ôn tập kiến thức SQL.
+- luyện tập codeSignal
