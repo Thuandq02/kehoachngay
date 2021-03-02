@@ -35,3 +35,17 @@
 - Dự án cá nhân.
 - ôn tập kiến thức SQL.
 - luyện tập codeSignal
+
+
+**01/03/2021**
+1. Hôm nay làm được gì ?
+- Dự án cá nhân.
+- ôn tập kiến thức SQL.
+- luyện tập codelearn sql.
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- ôn tập kiến thức SQL.
+- Dự án cá nhân.
+- luyện tập codelearn sql.
+- 
