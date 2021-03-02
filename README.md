@@ -1,4 +1,4 @@
-# KẾ HOẠCH NG
+# KẾ HOẠCH NGÀY
 **24/02/2021**
 1. Hôm nay làm được gì ?
 + Vẽ mindmap module 2.
