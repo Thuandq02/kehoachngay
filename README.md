@@ -48,4 +48,45 @@
 - ôn tập kiến thức SQL.
 - Dự án cá nhân.
 - luyện tập codelearn sql.
+
+
+**02/03/2021**
+1. Hôm nay làm được gì ?
+- ôn tập kiến thức SQL.
+- Dự án cá nhân.
+- luyện tập codelearn sql.
+- Ôn tập module 2.
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- ôn tập SQL.
+- Dự án cá nhân.
+- luyện tập codelearn sql.
+- ôn tập module 3.
+- phỏng vấn BSS
+
+**03/03/2021**
+1. Hôm nay làm được gì ?
+- ôn tập SQL.
+- Dự án cá nhân.
+- luyện tập codelearn sql.
+- ôn tập module 3.
+- phỏng vấn BSS
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- Di chuyển từ hải dương lên hà nội.
+- Khai báo y tế.
+- làm quiz module 2.
+
+**04/03/2021**
+1. Hôm nay làm được gì ?
+- Di chuyển từ hải dương lên hà nội.
+- Khai báo y tế.
+- làm quiz module 2.
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- Ôn tập SQL.
+- Ôn tập module 3.
 - 
