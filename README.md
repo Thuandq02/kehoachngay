@@ -89,4 +89,4 @@
 3. Ngày mai làm gì ?
 - Ôn tập SQL.
 - Ôn tập module 3.
-- 
+- Dự án cá nhân.
