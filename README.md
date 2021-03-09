@@ -90,3 +90,24 @@
 - Ôn tập SQL.
 - Ôn tập module 3.
 - Dự án cá nhân.
+
+**05/03/2021**
+1. Hôm nay làm được gì ?
+- Ôn tập SQL.
+- Ôn tập module 3.
+- Dự án cá nhân.
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+
+**08/03/2021**
+1. Hôm nay làm được gì ?
+- làm quiz module 2.
+- luyện tập sql trên  codelearn.io
+- dự án cá nhân
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- ôn tập kiến thức module 3
+- làm quiz module 3.
+- luyện tập sql trên  codelearn.io
+- dự án cá nhân.
