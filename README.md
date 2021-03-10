@@ -111,3 +111,17 @@
 - làm quiz module 3.
 - luyện tập sql trên  codelearn.io
 - dự án cá nhân.
+
+**09/03/2021**
+1. Hôm nay làm được gì ?
+- ôn tập kiến thức module 3
+- làm quiz module 3.
+- luyện tập sql trên  codelearn.io
+- dự án cá nhân.
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- làm quiz module 3.
+- ôn tập SQL.
+- luyện tập sql trên  codelearn.io
+- dự án cá nhân.
