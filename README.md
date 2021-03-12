@@ -140,3 +140,19 @@
 - luyện tập sql trên  codelearn.io
 - dự án cá nhân.
 - luyện tập Duolingo.
+
+**10/03/2021**
+1. Hôm nay làm được gì ?
+- làm quiz module 3.
+- ôn tập sql
+- luyện tập sql trên  codelearn.io
+- dự án cá nhân.
+- luyện tập Duolingo.
+2. Khó khăn là gì ?
+- Đọc hiểu tiếng anh.
+3. Ngày mai làm gì ?
+- ôn tập sql.
+- luyện tập sql trên  codelearn.io
+- dự án cá nhân.
+- luyện tập Duolingo.
+
