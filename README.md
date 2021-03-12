@@ -141,7 +141,7 @@
 - dự án cá nhân.
 - luyện tập Duolingo.
 
-**10/03/2021**
+**11/03/2021**
 1. Hôm nay làm được gì ?
 - làm quiz module 3.
 - ôn tập sql
